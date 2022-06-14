@@ -9,13 +9,13 @@ public class Solution10 {
         /*
          * Enter your code here. Read input from STDIN. Print output to STDOUT.
          * Your class should be named Solution.
-         *  5
-            12 0 1 78 12
-            2
-            Insert
-            5 23
-            Delete
-            0
+         *   5
+         *   12 0 1 78 12
+         *   2
+         *   Insert
+         *   5 23
+         *   Delete
+         *   0
          */
 
         Scanner scanner = new Scanner( System.in );

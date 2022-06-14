@@ -44,7 +44,7 @@ import java.util.Scanner;
     ERROR!
  */
 
-public class Solution9 {
+public class Solution09 {
 
     public static void main( String[] args ) {
         /*
@@ -85,9 +85,9 @@ public class Solution9 {
             }catch( IndexOutOfBoundsException e){
                 System.out.println("ERROR!");
             }
-            
-           
         }
+        
+        scanner.close();
     }
 
 }
